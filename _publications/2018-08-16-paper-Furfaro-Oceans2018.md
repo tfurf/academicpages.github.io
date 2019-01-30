@@ -2,7 +2,7 @@
 title: "A Distributed Framework for Embedded Collaborative Autonomy"
 collection: publications
 permalink: /publication/2018-08-16-paper-Furfaro-Oceans2018
-excerpt: 'A description of our Distributed/Decoupled Collaborative Autonomy Framework'
+#excerpt: 'A description of our Distributed/Decoupled Collaborative Autonomy Framework'
 date: 2018-10-01
 venue: 'MTS/IEEE Oceans 2018, Charleston, SC, USA'
 paperurl: 'http://tom.furfmon.com/files/Furfaro2018d2caf.pdf'
